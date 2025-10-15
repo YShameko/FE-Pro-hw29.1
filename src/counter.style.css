@@ -1,0 +1,13 @@
+.btn { 
+    margin: 20px; 
+    font-size: xx-large;
+}
+
+h3 {
+    font-size: larger;
+    font-weight: 700;
+}
+
+.counter {
+    border: 1px dotted;
+}
