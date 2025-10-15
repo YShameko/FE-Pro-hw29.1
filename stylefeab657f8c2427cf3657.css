@@ -1,0 +1,44 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/
+body {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+pre {
+  font-size: large;
+  margin: 3px 0;
+}
+
+h1 {
+  margin: 12px 0;
+  font-size: 24px;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8x 0;
+  font-size: 18px;
+}
+
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/app.style.css ***!
+  \*********************************************************************/
+h3 {
+  padding: 6px 0;
+  text-align: center;
+}
+
+.app { 
+  padding: 20px; 
+  max-width: 400px; 
+  margin: 0 auto;
+  text-align: center;
+}
